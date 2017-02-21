@@ -1,0 +1,5 @@
+[{
+        "branch": "c7.1.1",
+        "repository": "CandyDevices/device_samsung_klte-common",
+        "target_path": "device/samsung/klte-common"
+}]
